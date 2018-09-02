@@ -1,0 +1,21 @@
+[{
+	"userId":"001",
+	"userName":"蔡军",
+	"gender":"男",
+	"age":24
+},{
+	"userId":"002",
+	"userName":"韩锦良",
+	"gender":"女",
+	"age":24
+},{
+	"userId":"003",
+	"userName":"刘文豪",
+	"gender":"男",
+	"age":25
+},{
+	"userId":"004",
+	"userName":"范建林",
+	"gender":"女",
+	"age":24
+}]
